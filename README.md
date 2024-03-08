@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hughu123
 - 👀 I’m interested in sports and video games!
-- 🌱 I’m currently learning object origented programming in java.
+- 🌱 I’m currently learning Pyhton for a project. 
 - 💞️ I’m looking to collaborate on easy and fun projects!
 - 📫 How to reach me shot me a dm, i guess.
 
